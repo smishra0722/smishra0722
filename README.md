@@ -5,7 +5,7 @@ I'm a Front-End Developer, React JS / Vanilla JS enthusiastic!
 
 
 ## Find me around the web:
-- LinkedIn: <a href="www.linkedin.com/in/smishra0722">Link</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/smishra0722">Link</a>
 
 <!--
 **smishra0722/smishra0722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
